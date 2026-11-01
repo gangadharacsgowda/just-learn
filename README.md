@@ -1,2 +1,4 @@
 # just-learn
-this is my 1st repository to learn git & git hub
+this is my 1st repository 
+<br>
+To learn git & git hub
